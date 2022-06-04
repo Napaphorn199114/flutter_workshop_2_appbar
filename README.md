@@ -1,6 +1,7 @@
 # workshop_2_appbar
 
-A new Flutter project.
+Picture file name Example Screenshot_Project
+
 
 ## Getting Started
 
